@@ -33,4 +33,4 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/ZeparHyfar/mcp-datetime.git"
+Repository = "https://github.com/Sudipta-s-MCPs/sd-datetime-mcp.git"

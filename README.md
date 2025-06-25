@@ -4,7 +4,6 @@
 [![MCP Version](https://img.shields.io/badge/mcp-1.1.1-green.svg)](https://github.com/anaisbetts/mcp)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-English | [日本語](README_ja.md)
 
 A datetime formatting service implemented as an MCP server for the Claude Desktop Application. Supports generation of datetime strings in various formats.
 
@@ -68,7 +67,7 @@ If you need to install the package directly (e.g., for development or source cod
 - Install from GitHub Source
 
   ```bash
-  git clone https://github.com/ZeparHyfar/mcp-datetime.git
+  git clone https://github.com/Sudipta-s-MCPs/sd-datetime-mcp.git
   cd mcp-datetime
   pip install -e .
   ```
@@ -162,7 +161,7 @@ Since MCP servers run over stdio, debugging can be challenging. We recommend usi
 - Using downloaded source code from GitHub
 
   ```
-  git clone https://github.com/ZeparHyfar/mcp-datetime.git
+  git clone https://github.com/Sudipta-s-MCPs/sd-datetime-mcp.git
   npx @modelcontextprotocol/inspector uvx --directory ./mcp-datetime run mcp-datetime
   ```
 
